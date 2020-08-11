@@ -80,6 +80,6 @@ for rate in lr:
     
 # <-------------------------------- OBSERVATIONS --------------------------->
 
-    # Too slow Learining Rate ----> Wont Converge or will take too long
-    # Good Learning Rate  --------> Will Converge in ideal time
-    # Too fast Learning Rate -----> Wont Converge as it will miss the Minimum point and keep increasing after that
+    # Too slow Learining Rate ----> Wont Converge or will take too long.
+    # Good Learning Rate  --------> Will Converge in ideal time.
+    # Too fast Learning Rate -----> Wont Converge as it will miss the Minimum point and keep increasing after that.
